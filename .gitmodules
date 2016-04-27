@@ -2,10 +2,6 @@
 	path = connector-sage
 	url = https://github.com/OCA/connector-sage.git
 	branch = 7.0
-[submodule "connector-salesforce"]
-	path = connector-salesforce
-	url = https://github.com/OCA/connector-salesforce.git
-	branch = 7.0
 [submodule "connector-prestashop"]
 	path = connector-prestashop
 	url = https://github.com/OCA/connector-prestashop.git
@@ -18,10 +14,6 @@
 	path = connector-magento
 	url = https://github.com/OCA/connector-magento.git
 	branch = 7.0
-[submodule "connector-interfaces"]
-	path = connector-interfaces
-	url = https://github.com/OCA/connector-interfaces.git
-	branch = 7.0
 [submodule "connector-telephony"]
 	path = connector-telephony
 	url = https://github.com/OCA/connector-telephony.git
@@ -33,10 +25,6 @@
 [submodule "bank-statement-reconcile"]
 	path = bank-statement-reconcile
 	url = https://github.com/OCA/bank-statement-reconcile.git
-	branch = 7.0
-[submodule "bank-statement-import"]
-	path = bank-statement-import
-	url = https://github.com/OCA/bank-statement-import.git
 	branch = 7.0
 [submodule "bank-payment"]
 	path = bank-payment
@@ -137,10 +125,6 @@
 [submodule "multi-company"]
 	path = multi-company
 	url = https://github.com/OCA/multi-company.git
-	branch = 7.0
-[submodule "operating-unit"]
-	path = operating-unit
-	url = https://github.com/OCA/operating-unit.git
 	branch = 7.0
 [submodule "partner-contact"]
 	path = partner-contact
